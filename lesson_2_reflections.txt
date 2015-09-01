@@ -1,3 +1,7 @@
 lesson_2_reflections.txt
 
 What happens when you initialize a repository? Why do you need to do it?
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Repostiory is where you keep your files staging area is where you copy files that you want to commit (you use git add for that).
