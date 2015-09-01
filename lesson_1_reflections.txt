@@ -1,0 +1,3 @@
+lesson_1_reflections.txt
+Dont know how to make this work!!!
+How can having easy access to a file make you a more efficient programmer
